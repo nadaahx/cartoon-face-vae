@@ -63,8 +63,8 @@ Projecting the 32-dimensional latent space into 2D shows structured clustering o
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/cartoon-vae.git](https://github.com/yourusername/cartoon-vae.git)
-    cd cartoon-vae
+    git clone [https://github.com/nadaahx/cartoon-face-vae.git](https://github.com/nadaahx/cartoon-face-vae.git)
+    cd cartoon-face-vae
     ```
 
 2.  **Install dependencies**
@@ -78,7 +78,7 @@ Projecting the 32-dimensional latent space into 2D shows structured clustering o
     * Update the `DATA_PATH` variable in the notebook to point to your local directory.
 
 4.  **Run the Notebook**
-    Open `VAE_Cartoon_Faces.ipynb` in Jupyter Lab, VS Code, or Google Colab and execute the cells.
+    Open `generative-vae.ipynb` in Jupyter Lab, VS Code, or Google Colab and execute the cells.
 
 ## 📈 Performance Metrics
 
