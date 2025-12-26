@@ -98,7 +98,3 @@ Projecting the 32-dimensional latent space into 2D shows structured clustering o
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
